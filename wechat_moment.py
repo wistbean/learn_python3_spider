@@ -53,7 +53,7 @@ class Wechat_Moment():
         # 获取到搜索按钮后点击
         search_btn = self.wait.until(EC.element_to_be_clickable((By.ID, "com.tencent.mm:id/iq")))
         # 等搜索建立索引再点击
-        time.sleep(20)
+        time.sleep(10)
         search_btn.click()
         # 获取搜索框并输入
         search_input = self.wait.until(EC.presence_of_element_located((By.ID, "com.tencent.mm:id/kh")))
@@ -75,11 +75,11 @@ class Wechat_Moment():
 
     def get_data(self):
         while True:
-            # 获取 FrameLayout
+            # 获取 ListView
             items = self.wait.until(EC.presence_of_all_elements_located((By.ID, 'com.tencent.mm:id/eew')))
             # 滑动
             self.driver.swipe(self.start_x, self.start_y, self.end_x, self.end_y, 2000)
-            #遍历获取
+            #遍历获取每个List数据
             for item in items:
                 moment_text = item.find_element_by_id('com.tencent.mm:id/kt').text
                 day_text = item.find_element_by_id('com.tencent.mm:id/eke').text
