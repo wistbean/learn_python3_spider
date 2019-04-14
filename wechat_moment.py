@@ -36,10 +36,10 @@ class Wechat_Moment():
         change_login_btn.click()
         # 获取输入账号元素并输入
         account = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@resource-id="com.tencent.mm:id/cos"]/android.widget.EditText')))
-        account.send_keys("wcnmwzs666")
+        account.send_keys("xxxxxxxx")
         # 获取密码元素并输入
         password = self.wait.until(EC.presence_of_element_located((By.XPATH,  '//*[@resource-id="com.tencent.mm:id/cot"]/android.widget.EditText')))
-        password.send_keys("jkluio789")
+        password.send_keys("xxxxxx")
         # 登录
         login = self.wait.until(EC.element_to_be_clickable((By.ID, "com.tencent.mm:id/cov")))
         login.click()
