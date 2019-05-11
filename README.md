@@ -46,6 +46,12 @@ peace.
 - [python爬虫系列教程21 | 以后我再讲「模拟登录」我就是狗](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484326&idx=1&sn=05fe9e83b0ffc4b401a45f5a272bee0b&scene=19#wechat_redirect)
 - [python爬虫系列教程22 | 手机，这次要让你上来自己动了。这就是 Appium+Python 的牛x之处](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484358&idx=1&sn=23e920d7a8d43dafd7607c8d30eeb946&scene=19#wechat_redirect)
 - [python爬虫系列教程23 | 搞事情了，用 Appium 爬取你的微信朋友圈。](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484386&idx=1&sn=7f0545f27f095f20d69deedfa9f606a1&scene=19#wechat_redirect)
+- [python爬虫系列教程24 |爬取下来的数据怎么保存？ CSV 了解一下](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484441&idx=1&sn=f814247c9307e4ed4bb58cdff279d410&scene=19#wechat_redirect)
+- [python爬虫系列教程25 | 把数据爬取下来之后就存储到你的MySQL数据库。](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484510&idx=1&sn=316cec6eab70fcd8005cc580a66e02aa&scene=19#wechat_redirect)
+- [python爬虫系列教程26 | 当Python遇到MongoDB的时候，存储av女优的数据变得如此顺滑爽～](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484520&idx=1&sn=5e2adaa2accb7fd9af35cbe7ceef945e&scene=19#wechat_redirect)
+- [python爬虫系列教程27 | 你爬下的数据不分析一波可就亏了啊，使用python进行数据可视化](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484538&idx=1&sn=d9b614201c96ad283bbad8a867d42082&scene=19#wechat_redirect)
+- [python爬虫系列教程28 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484571&idx=1&sn=e9b1b3cf6e5401ce5bfa0dd3d29f9305&scene=19#wechat_redirect)
+
 
 > 未完待续...
 
