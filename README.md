@@ -52,8 +52,8 @@ peace.
 - [python爬虫系列教程26 | 当Python遇到MongoDB的时候，存储av女优的数据变得如此顺滑爽～](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484520&idx=1&sn=5e2adaa2accb7fd9af35cbe7ceef945e&scene=19#wechat_redirect)
 - [python爬虫系列教程27 | 你爬下的数据不分析一波可就亏了啊，使用python进行数据可视化](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484538&idx=1&sn=d9b614201c96ad283bbad8a867d42082&scene=19#wechat_redirect)
 - [python爬虫系列教程28 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484571&idx=1&sn=e9b1b3cf6e5401ce5bfa0dd3d29f9305&scene=19#wechat_redirect)
-- [python爬虫29 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-29.html)
-- [python爬虫30 | scrapy后续，把「糗事百科」的段子爬下来然后存到数据库中](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-30.html)
+- [python爬虫系列教程29 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-29.html)
+- [python爬虫系列教程30 | scrapy后续，把「糗事百科」的段子爬下来然后存到数据库中](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-30.html)
 
 > 未完待续...
 
