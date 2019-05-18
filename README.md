@@ -44,7 +44,8 @@ peace.
 - [python爬虫系列教程29 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-29.html)
 - [python爬虫系列教程30 | scrapy后续，把「糗事百科」的段子爬下来然后存到数据库中](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-30.html)
 
-> 未完待续...
+## 爬虫实战教程
+- [python爬取 20w 表情包之后，从此你就成为了微信斗图届的高手](https://fxxkpython.com/python-pa-qu-biao-qing-bao.html)
 
 ## 爬虫实例源代码
 
@@ -57,7 +58,7 @@ peace.
 [5、自动识别b站滑动验证码](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484321&idx=1&sn=4bc73324acfacda7d3bc82120b19d11a&scene=19#wechat_redirect) | [源码](https://github.com/wistbean/learn_python3_spider/blob/master/fuck_bilibili_captcha.py)
 [6、搞事情了，用 Appium 爬取你的微信朋友圈](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484386&idx=1&sn=7f0545f27f095f20d69deedfa9f606a1&scene=19#wechat_redirect) | [源码](https://github.com/wistbean/learn_python3_spider/blob/master/wechat_moment.py)
 [7、scrapy爬取糗事百科段子到MongoDB（上）](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-29.html)、[scrapy爬取糗事百科段子到MongoDB(下)](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-30.html) | [源码](https://github.com/wistbean/learn_python3_spider/tree/master/qiushibaike) 
-
+[8、python爬取 20w 表情包之后，从此你就成为了微信斗图届的高手](https://fxxkpython.com/python-pa-qu-biao-qing-bao.html) | [源码](https://github.com/wistbean/learn_python3_spider/tree/master/biaoqingbao)
 > 未完待续...
 
 ## python爬虫段子
