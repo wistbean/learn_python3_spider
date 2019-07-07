@@ -75,4 +75,7 @@ peace.
 
 微信搜索id：fxxkpython
 名称：学习python的正确姿势
+
+![扫一扫关注学习python的正确姿势](https://fxxkpython.com/images/wxgzh.jpeg)
+
 免费知识星球，搜索：小帅b
