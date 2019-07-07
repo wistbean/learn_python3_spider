@@ -46,7 +46,8 @@ peace.
 
 ## 爬虫实战教程
 - [python爬取 20w 表情包之后，从此你就成为了微信斗图届的高手](https://fxxkpython.com/python-pa-qu-biao-qing-bao.html)
-
+- [python爬取你喜欢的公众号的所有原创文章，然后搞成PDF慢慢看](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484657&amp;idx=1&amp;sn=998bfcce6cd22b7fedff29e68a46fe3f&amp;chksm=fc8bbc60cbfc3576f117d3566fbea8a042ee573d840bbe6a3d4ec9bffef815c691b7f9a59711&amp;scene=27#wechat_redirect) 
+- [当 python 遇到你的微信的时候，你才发现原来你的微信好友是这样的](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484710&amp;idx=1&amp;sn=cf17f2e87405ebffb20edd0ca0a7315b&amp;chksm=fc8bbdb7cbfc34a1389e17d4485b677d5ada497a404dc8f14107914e50382c640e7bd3cb93a4&amp;scene=27#wechat_redirect) 
 ## 爬虫实例源代码
 
 图文教程 | 相关源码
@@ -67,7 +68,8 @@ peace.
 
 ## python相关
 
-[python教程资源](https://wistbean.github.io/categories/python/)
+- [ 如何自学 Python 高效一些](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484608&amp;idx=1&amp;sn=0ebde7cbfea6e42e9e8e316bbec35b2b&amp;chksm=fc8bbc51cbfc35475daa15a026c44727bc7954bd722b24870eab567ef937a8f175369c546962&amp;scene=27#wechat_redirect) 
+- [python教程资源](https://wistbean.github.io/categories/python/)
 
 ## python公众号
 
