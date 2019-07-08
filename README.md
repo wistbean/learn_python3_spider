@@ -44,10 +44,21 @@ peace.
 - [python爬虫系列教程29 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-29.html)
 - [python爬虫系列教程30 | scrapy后续，把「糗事百科」的段子爬下来然后存到数据库中](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-30.html)
 
+
+## python爬冲进阶：python爬虫反爬
+
+- [python爬虫反爬 | 对方是如何丧心病狂的通过 css 加密让你爬不到数据的](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484810&amp;idx=1&amp;sn=ed3297773c1eeb741bdabfb31c3ea00e&amp;chksm=fc8bbd1bcbfc340d6ae0166e035dd8c8e106afae8adc5fc32162a17b68916b69383b0ab67265&amp;scene=27#wechat_redirect) 
+
+- [python爬虫反反爬 | 看完这篇，你几乎可以横扫大部分 css 字体加密的网站！](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484921&amp;idx=1&amp;sn=72a707c5bc67eede144947829cab4dc6&amp;chksm=fc8bbd68cbfc347eca6727ff90f85ef58a4fdd7c2f75a962aee3ccd5e9c4266dbe5f4e6e2262&amp;scene=27#wechat_redirect) 
+
+- [python爬虫反反爬 | 像有道词典这样的 JS 混淆加密应该怎么破](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484997&amp;idx=1&amp;sn=b304304aacb3cba31f5f7a6c6bb1ba69&amp;chksm=fc8bbed4cbfc37c29db631c187295757c164ae75ff3e0381dbbf685a9f3d1410098e5b751e33&amp;scene=27#wechat_redirect) 
 ## 爬虫实战教程
 - [python爬取 20w 表情包之后，从此你就成为了微信斗图届的高手](https://fxxkpython.com/python-pa-qu-biao-qing-bao.html)
 - [python爬取你喜欢的公众号的所有原创文章，然后搞成PDF慢慢看](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484657&amp;idx=1&amp;sn=998bfcce6cd22b7fedff29e68a46fe3f&amp;chksm=fc8bbc60cbfc3576f117d3566fbea8a042ee573d840bbe6a3d4ec9bffef815c691b7f9a59711&amp;scene=27#wechat_redirect) 
 - [当 python 遇到你的微信的时候，你才发现原来你的微信好友是这样的](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484710&amp;idx=1&amp;sn=cf17f2e87405ebffb20edd0ca0a7315b&amp;chksm=fc8bbdb7cbfc34a1389e17d4485b677d5ada497a404dc8f14107914e50382c640e7bd3cb93a4&amp;scene=27#wechat_redirect) 
+- [高考要来了，扒一扒历年高考录取分数来压压惊](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484745&amp;idx=1&amp;sn=24362e73605d30e06ebe05d1fe7225f2&amp;chksm=fc8bbdd8cbfc34ce100b9461f46c8a1c0008172f101b34b38e146f56323bc40bbd373a127ee8&amp;scene=27#wechat_redirect) 
+
+
 ## 爬虫实例源代码
 
 图文教程 | 相关源码
@@ -67,10 +78,10 @@ peace.
 - [网站维护人员：真的求求你们了，不要再来爬取了！！](https://mp.weixin.qq.com/s/3IyGi0F6xnD_uMKpez5AaA)
 
 ## python相关
-
+- [python如何赚钱？ python爬虫如何进阶？ python就业？ 如何快速入门python？ .....](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484770&amp;idx=1&amp;sn=16427865c7b2785594acfbcf4505e26f&amp;chksm=fc8bbdf3cbfc34e5856dd36dd825f9b89b05a4ab3def08dac48b760771e4ee0454fdf9ddee72&amp;scene=27#wechat_redirect) 
 - [ 如何自学 Python 高效一些](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484608&amp;idx=1&amp;sn=0ebde7cbfea6e42e9e8e316bbec35b2b&amp;chksm=fc8bbc51cbfc35475daa15a026c44727bc7954bd722b24870eab567ef937a8f175369c546962&amp;scene=27#wechat_redirect) 
 - [python教程资源](https://wistbean.github.io/categories/python/)
-
+- [吐血分享这两个爬虫用到的 Chrome 牛逼插件](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484859&amp;idx=1&amp;sn=b5f91ab1dc027d06e34dea1b37091b34&amp;chksm=fc8bbd2acbfc343ce3123fb3e3aec1fa1e34c96b15e998a34e01a75f4ca90b0089e1692f5a31&amp;scene=27#wechat_redirect) 
 ## python公众号
 
 微信搜索id：fxxkpython
