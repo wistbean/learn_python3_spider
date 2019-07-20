@@ -89,4 +89,4 @@ peace.
 
 ![扫一扫关注学习python的正确姿势](https://fxxkpython.com/images/wxgzh.jpeg)
 
-免费知识星球，搜索：小帅b
+小帅b手把手带你：[通往Python高手之路](http://vip.fxxkpython.com/?page_id=18)
