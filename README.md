@@ -43,7 +43,7 @@ peace.
 - [python爬虫系列教程28 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484571&idx=1&sn=e9b1b3cf6e5401ce5bfa0dd3d29f9305&scene=19#wechat_redirect)
 - [python爬虫系列教程29 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-29.html)
 - [python爬虫系列教程30 | scrapy后续，把「糗事百科」的段子爬下来然后存到数据库中](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-30.html)
-
+- [mitmproxy | 那个站在中间的男人，使用Python就能直接操控你的上网请求](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485104&idx=1&sn=5ee4a04e6ce2854e5507cd320517fd0d&chksm=fc8bbe21cbfc373738d926e0ca3250f44079449a85c1fe88f307805e28a3cc4ada07d9e322bb&token=2085568099&lang=zh_CN#rd)
 
 ## python爬冲进阶：python爬虫反爬
 
