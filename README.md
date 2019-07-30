@@ -73,6 +73,10 @@ peace.
 [8、python爬取 20w 表情包之后，从此你就成为了微信斗图届的高手](https://fxxkpython.com/python-pa-qu-biao-qing-bao.html) | [源码](https://github.com/wistbean/learn_python3_spider/tree/master/biaoqingbao)
 > 未完待续...
 
+## 爬虫技巧
+
+- [给你们说几点鲜有人知的爬虫技巧](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485129&idx=1&sn=56a9aecafa73162c639a873b5bbdf534&chksm=fc8bbe58cbfc374e5c033a37a82b94e8391855d85f1db26975579ddb3cf0882f1157e37f224c&token=2111372640&lang=zh_CN#rd)
+
 ## python爬虫段子
 
 - [网站维护人员：真的求求你们了，不要再来爬取了！！](https://mp.weixin.qq.com/s/3IyGi0F6xnD_uMKpez5AaA)
