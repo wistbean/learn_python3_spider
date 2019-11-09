@@ -102,7 +102,7 @@ peace.
 微信搜索id：fxxkpython
 名称：学习python的正确姿势
 
-![扫一扫关注学习python的正确姿势](https://wistbean.github.io/images/python/J2icnQspGlaJsODs2ibc1aSu5WoajHE4dItZQuTC20wibncMCIHG3X3iajk6ZLeF3yPb6BdHtuhrjICS26d1cEHTNg/640)
+![扫一扫关注学习python的正确姿势](https://pic1.zhimg.com/80/v2-8733460ed14d159a62d511a641742ef0_hd.jpg)
 
 ## 通往Python高手之路
 小帅b手把手带你：[通往Python高手之路](http://vip.fxxkpython.com/?page_id=18)
