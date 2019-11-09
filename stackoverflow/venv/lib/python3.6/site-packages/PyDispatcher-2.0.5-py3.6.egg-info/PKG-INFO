@@ -1,0 +1,29 @@
+Metadata-Version: 1.2
+Name: PyDispatcher
+Version: 2.0.5
+Summary: Multi-producer-multi-consumer signal dispatching mechanism
+Home-page: http://pydispatcher.sourceforge.net
+Author: Patrick K. O'Brien
+Author-email: pydispatcher-devel@lists.sourceforge.net
+Maintainer: Mike C. Fletcher
+Maintainer-email: pydispatcher-devel@lists.sourceforge.net
+License: BSD
+Description: Dispatcher mechanism for creating event models
+        
+        PyDispatcher is an enhanced version of Patrick K. O'Brien's
+        original dispatcher.py module.  It provides the Python
+        programmer with a robust mechanism for event routing within
+        various application contexts.
+        
+        Included in the package are the robustapply and saferef
+        modules, which provide the ability to selectively apply
+        arguments to callable objects and to reference instance
+        methods using weak-references.
+        
+Keywords: dispatcher,dispatch,pydispatch,event,signal,sender,receiver,propagate,multi-consumer,multi-producer,saferef,robustapply,apply
+Platform: Any
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Intended Audience :: Developers

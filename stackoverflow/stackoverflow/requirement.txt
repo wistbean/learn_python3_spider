@@ -1,0 +1,9 @@
+pymongo==3.9.0
+redis==3.3.11
+Scrapy==1.7.4
+scrapy-redis==0.6.8
+lxml==4.4.1
+parsel==1.5.2
+
+
+

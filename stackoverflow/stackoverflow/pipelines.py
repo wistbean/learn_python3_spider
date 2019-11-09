@@ -8,7 +8,7 @@ import pymongo
 
 class StackoverflowPipeline(object):
     def __init__(self):
-        self.connection = pymongo.MongoClient('127.0.0.1', 27017)
+        self.connection = pymongo.MongoClient('68.183.180.71', 27017)
         self.db = self.connection.scrapy
         self.collection = self.db.stackoverflow
 

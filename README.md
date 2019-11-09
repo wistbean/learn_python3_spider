@@ -3,9 +3,6 @@
 
 peace.
 
-
-
-
 # python爬虫教程从0到1
 
 ## python爬虫前，抓包
@@ -41,27 +38,35 @@ peace.
 - [python爬虫系列教程26 | 当Python遇到MongoDB的时候，存储av女优的数据变得如此顺滑爽～](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484520&idx=1&sn=5e2adaa2accb7fd9af35cbe7ceef945e&scene=19#wechat_redirect)
 - [python爬虫系列教程27 | 你爬下的数据不分析一波可就亏了啊，使用python进行数据可视化](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484538&idx=1&sn=d9b614201c96ad283bbad8a867d42082&scene=19#wechat_redirect)
 - [python爬虫系列教程28 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484571&idx=1&sn=e9b1b3cf6e5401ce5bfa0dd3d29f9305&scene=19#wechat_redirect)
-- [python爬虫系列教程29 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-29.html)
 - [python爬虫系列教程30 | scrapy后续，把「糗事百科」的段子爬下来然后存到数据库中](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-30.html)
 - [mitmproxy | 那个站在中间的男人，使用Python就能直接操控你的上网请求](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485104&idx=1&sn=5ee4a04e6ce2854e5507cd320517fd0d&chksm=fc8bbe21cbfc373738d926e0ca3250f44079449a85c1fe88f307805e28a3cc4ada07d9e322bb&token=2085568099&lang=zh_CN#rd)
 - [mitmproxy | 如何使用 mitmproxy 监控你的手机](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485117&idx=1&sn=3819b0d55ec071164b7cabe2477ddc13&scene=19#wechat_redirect)
 
 
-
 ## python爬冲进阶：python爬虫反爬
 
 - [python爬虫反爬 | 对方是如何丧心病狂的通过 css 加密让你爬不到数据的](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484810&amp;idx=1&amp;sn=ed3297773c1eeb741bdabfb31c3ea00e&amp;chksm=fc8bbd1bcbfc340d6ae0166e035dd8c8e106afae8adc5fc32162a17b68916b69383b0ab67265&amp;scene=27#wechat_redirect) 
-
 - [python爬虫反反爬 | 看完这篇，你几乎可以横扫大部分 css 字体加密的网站！](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484921&amp;idx=1&amp;sn=72a707c5bc67eede144947829cab4dc6&amp;chksm=fc8bbd68cbfc347eca6727ff90f85ef58a4fdd7c2f75a962aee3ccd5e9c4266dbe5f4e6e2262&amp;scene=27#wechat_redirect) 
-
 - [python爬虫反反爬 | 像有道词典这样的 JS 混淆加密应该怎么破](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484997&amp;idx=1&amp;sn=b304304aacb3cba31f5f7a6c6bb1ba69&amp;chksm=fc8bbed4cbfc37c29db631c187295757c164ae75ff3e0381dbbf685a9f3d1410098e5b751e33&amp;scene=27#wechat_redirect) 
+- [你想逆向我的 js 代码？呵呵，先过了我的反 debug 再说吧！](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485338&idx=1&sn=5b4d6ed34a27ed5e81a3e5d8ccf8bee9&scene=19&token=464856977&lang=zh_CN#wechat_redirect)
+- [你想逆向我的 js 代码？呵呵，先过了我的反 debug 再说吧！](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485338&idx=1&sn=5b4d6ed34a27ed5e81a3e5d8ccf8bee9&scene=19&token=464856977&lang=zh_CN#wechat_redirect)
+
+## Python websocket 爬虫：
+- [哇靠，这些数据疯狂变化，该怎么爬取？](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485466&idx=1&sn=1e4db96f3ca1d3a263dd7e075cbd7600&scene=19&token=464856977&lang=zh_CN#wechat_redirect)
+
+## Python 分布式爬虫
+- [说说分布式爬虫](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485718&idx=1&sn=2d42d1c7408b14781ef4c1e97fbac8f6&scene=19&token=464856977&lang=zh_CN#wechat_redirect)
+- [我整来了几台服务器，就是为了给你演示一下分布式爬虫的整个过程](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485863&idx=1&sn=34f9fb196c77dffdcce4a610b622270d&scene=19&token=464856977&lang=zh_CN#wechat_redirect)
+
 ## 爬虫实战教程
 - [python爬取 20w 表情包之后，从此你就成为了微信斗图届的高手](https://fxxkpython.com/python-pa-qu-biao-qing-bao.html)
 - [python爬取你喜欢的公众号的所有原创文章，然后搞成PDF慢慢看](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484657&amp;idx=1&amp;sn=998bfcce6cd22b7fedff29e68a46fe3f&amp;chksm=fc8bbc60cbfc3576f117d3566fbea8a042ee573d840bbe6a3d4ec9bffef815c691b7f9a59711&amp;scene=27#wechat_redirect) 
 - [当 python 遇到你的微信的时候，你才发现原来你的微信好友是这样的](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484710&amp;idx=1&amp;sn=cf17f2e87405ebffb20edd0ca0a7315b&amp;chksm=fc8bbdb7cbfc34a1389e17d4485b677d5ada497a404dc8f14107914e50382c640e7bd3cb93a4&amp;scene=27#wechat_redirect) 
 - [高考要来了，扒一扒历年高考录取分数来压压惊](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484745&amp;idx=1&amp;sn=24362e73605d30e06ebe05d1fe7225f2&amp;chksm=fc8bbdd8cbfc34ce100b9461f46c8a1c0008172f101b34b38e146f56323bc40bbd373a127ee8&amp;scene=27#wechat_redirect) 
 - [随着身子的一阵颤抖，Python爬取抖音上的小姐姐突然变得索然无味](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485150&idx=1&sn=b813993925a1031d4e85eb8841ccdb37&scene=19#wechat_redirect)
-
+- [使用 scrapy 爬取 stackoverflow 上的所有 Python 问答](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485754&idx=1&sn=3e52aa0ac13f3a23c6dee2b75424f0f5&scene=19&token=464856977&lang=zh_CN#wechat_redirect)
+- [爬取周杰伦新歌《说好不哭》的所有评论，然后生成词云图](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485571&idx=1&sn=094517114b22a4684988008aecab2639&scene=19&token=464856977&lang=zh_CN#wechat_redirect)
+- [我整来了几台服务器，就是为了给你演示一下分布式爬虫的整个过程](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485863&idx=1&sn=34f9fb196c77dffdcce4a610b622270d&scene=19&token=464856977&lang=zh_CN#wechat_redirect)
 
 
 ## 爬虫实例源代码
@@ -76,10 +81,11 @@ peace.
 [6、搞事情了，用 Appium 爬取你的微信朋友圈](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484386&idx=1&sn=7f0545f27f095f20d69deedfa9f606a1&scene=19#wechat_redirect) | [源码](https://github.com/wistbean/learn_python3_spider/blob/master/wechat_moment.py)
 [7、scrapy爬取糗事百科段子到MongoDB（上）](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-29.html)、[scrapy爬取糗事百科段子到MongoDB(下)](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-30.html) | [源码](https://github.com/wistbean/learn_python3_spider/tree/master/qiushibaike) 
 [8、python爬取 20w 表情包之后，从此你就成为了微信斗图届的高手](https://fxxkpython.com/python-pa-qu-biao-qing-bao.html) | [源码](https://github.com/wistbean/learn_python3_spider/tree/master/biaoqingbao)
+[9、python爬取你喜欢的公众号的所有原创文章，然后搞成PDF慢慢看](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484657&idx=1&sn=998bfcce6cd22b7fedff29e68a46fe3f&scene=19&token=464856977&lang=zh_CN#wechat_redirect) | [源码](https://github.com/wistbean/learn_python3_spider/blob/master/wechat_public_account.py)
+[10、当 python 遇到你的微信的时候，你才发现原来你的微信好友是这样的](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484710&idx=1&sn=cf17f2e87405ebffb20edd0ca0a7315b&scene=19&token=464856977&lang=zh_CN#wechat_redirect) | [--](https://wistbean.github.io)
 > 未完待续...
 
 ## 爬虫技巧
-
 - [给你们说几点鲜有人知的爬虫技巧](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485129&idx=1&sn=56a9aecafa73162c639a873b5bbdf534&chksm=fc8bbe58cbfc374e5c033a37a82b94e8391855d85f1db26975579ddb3cf0882f1157e37f224c&token=2111372640&lang=zh_CN#rd)
 
 ## python爬虫段子
@@ -96,7 +102,7 @@ peace.
 微信搜索id：fxxkpython
 名称：学习python的正确姿势
 
-![扫一扫关注学习python的正确姿势](https://fxxkpython.com/images/wxgzh.jpeg)
+![扫一扫关注学习python的正确姿势](https://wistbean.github.io/images/python/J2icnQspGlaJsODs2ibc1aSu5WoajHE4dItZQuTC20wibncMCIHG3X3iajk6ZLeF3yPb6BdHtuhrjICS26d1cEHTNg/640)
 
 ## 通往Python高手之路
 小帅b手把手带你：[通往Python高手之路](http://vip.fxxkpython.com/?page_id=18)

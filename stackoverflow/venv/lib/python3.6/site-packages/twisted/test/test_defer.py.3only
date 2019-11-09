@@ -1,0 +1,85 @@
+# Copyright (c) Twisted Matrix Laboratories.
+# See LICENSE for details.
+
+"""
+Test cases for L{twisted.internet.defer} on Python 3.5 and later.
+
+This file is loaded by C{test_defer.py} only when running on an
+interpreter version that supports the C{async} and C{await} keywords.
+"""
+
+
+import functools
+
+
+from twisted.internet import defer
+from twisted.trial import unittest
+
+
+
+def ensuringDeferred(f):
+    @functools.wraps(f)
+    def wrapper(*args, **kwargs):
+        result = f(*args, **kwargs)
+        return defer.ensureDeferred(result)
+    return wrapper
+
+
+
+class DeferredTestsAsync(unittest.TestCase):
+
+
+    @ensuringDeferred
+    async def test_asyncWithLock(self):
+        """
+        L{defer.DeferredLock} can be used as an asynchronous context manager.
+        """
+        lock = defer.DeferredLock()
+        async with lock:
+            self.assertTrue(lock.locked)
+            d = lock.acquire()
+            d.addCallback(lambda _: lock.release())
+            self.assertTrue(lock.locked)
+            self.assertFalse(d.called)
+        self.assertTrue(d.called)
+        await d
+        self.assertFalse(lock.locked)
+
+
+    @ensuringDeferred
+    async def test_asyncWithSemaphore(self):
+        """
+        L{defer.DeferredSemaphore} can be used as an asynchronous context manager.
+        """
+        sem = defer.DeferredSemaphore(3)
+
+        async with sem:
+            self.assertEqual(sem.tokens, 2)
+            async with sem:
+                self.assertEqual(sem.tokens, 1)
+                d1 = sem.acquire()
+                d2 = sem.acquire()
+                self.assertEqual(sem.tokens, 0)
+                self.assertTrue(d1.called)
+                self.assertFalse(d2.called)
+            self.assertEqual(sem.tokens, 0)
+            self.assertTrue(d2.called)
+            d1.addCallback(lambda _: sem.release())
+            d2.addCallback(lambda _: sem.release())
+            await d1
+            await d2
+            self.assertEqual(sem.tokens, 2)
+        self.assertEqual(sem.tokens, 3)
+
+    @ensuringDeferred
+    async def test_asyncWithLockException(self):
+        """
+        C{defer.DeferredLock} correctly propagates exceptions when
+        used as an asynchronous context manager.
+        """
+        lock = defer.DeferredLock()
+        with self.assertRaisesRegexp(Exception, 'some specific exception'):
+            async with lock:
+                self.assertTrue(lock.locked)
+                raise Exception('some specific exception')
+        self.assertFalse(lock.locked)
