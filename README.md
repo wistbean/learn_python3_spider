@@ -43,7 +43,7 @@ peace.
 - [mitmproxy | 如何使用 mitmproxy 监控你的手机](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485117&idx=1&sn=3819b0d55ec071164b7cabe2477ddc13&scene=19#wechat_redirect)
 
 
-## python爬冲进阶：python爬虫反爬
+## python爬虫进阶：python爬虫反爬
 
 - [python爬虫反爬 | 对方是如何丧心病狂的通过 css 加密让你爬不到数据的](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484810&amp;idx=1&amp;sn=ed3297773c1eeb741bdabfb31c3ea00e&amp;chksm=fc8bbd1bcbfc340d6ae0166e035dd8c8e106afae8adc5fc32162a17b68916b69383b0ab67265&amp;scene=27#wechat_redirect) 
 - [python爬虫反反爬 | 看完这篇，你几乎可以横扫大部分 css 字体加密的网站！](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484921&amp;idx=1&amp;sn=72a707c5bc67eede144947829cab4dc6&amp;chksm=fc8bbd68cbfc347eca6727ff90f85ef58a4fdd7c2f75a962aee3ccd5e9c4266dbe5f4e6e2262&amp;scene=27#wechat_redirect) 
