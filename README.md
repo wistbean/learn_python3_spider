@@ -23,7 +23,7 @@ peace.
 - [python爬虫系列教程11 | python爬虫的时候对Json数据的解析](https://mp.weixin.qq.com/s/57W2axrqEB9hbIA9mgpP0g)
 - [python爬虫系列教程12 | 秒爬，python爬虫中的多线程，多进程，协程](https://mp.weixin.qq.com/s/2kYWX8xOjdwifJZAkOlNjA)
 - [python爬虫系列教程13 | 就这么说吧，如果你不懂python多线程和线程池，那就去河边摸鱼！](https://mp.weixin.qq.com/s/v8qlA1cOIhCwYmFgO6YrMg)
-- [python爬虫系列教程14 | 害羞，用多线程秒爬那些万恶的妹纸们，纸巾呢？](https://mp.weixin.qq.com/s/cv_QREP2Gu6FzMrRb8F6XQ)
+- [python爬虫系列教程14 | 害羞，用多线程秒爬那些万恶的妹纸们，纸巾呢？](https://vip.fxxkpython.com/?p=5293)
 - [python爬虫系列教程15 | 你，快去试试用多进程的方式重新去爬取豆瓣上的电影](https://mp.weixin.qq.com/s/X15LNTgXMWV-I224NJ_U1A)
 - [python爬虫系列教程16 | 听说你又被封 ip 了，你要学会伪装好自己，这次说说伪装你的头部](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484251&idx=1&sn=b10a5aedb633a051178fac8a1a800542&scene=19#wechat_redirect)
 - [python爬虫系列教程17 | 就算你被封了也能继续爬，使用IP代理池伪装你的IP地址，让IP飘一会](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484261&idx=1&sn=2d839d004d592be3c98d1356d6710a69&scene=19#wechat_redirect)
