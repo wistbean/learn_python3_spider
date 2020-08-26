@@ -49,7 +49,8 @@ peace.
 - [python爬虫反反爬 | 看完这篇，你几乎可以横扫大部分 css 字体加密的网站！](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484921&amp;idx=1&amp;sn=72a707c5bc67eede144947829cab4dc6&amp;chksm=fc8bbd68cbfc347eca6727ff90f85ef58a4fdd7c2f75a962aee3ccd5e9c4266dbe5f4e6e2262&amp;scene=27#wechat_redirect) 
 - [python爬虫反反爬 | 像有道词典这样的 JS 混淆加密应该怎么破](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484997&amp;idx=1&amp;sn=b304304aacb3cba31f5f7a6c6bb1ba69&amp;chksm=fc8bbed4cbfc37c29db631c187295757c164ae75ff3e0381dbbf685a9f3d1410098e5b751e33&amp;scene=27#wechat_redirect) 
 - [你想逆向我的 js 代码？呵呵，先过了我的反 debug 再说吧！](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485338&idx=1&sn=5b4d6ed34a27ed5e81a3e5d8ccf8bee9&scene=19&token=464856977&lang=zh_CN#wechat_redirect)
-- [你想逆向我的 js 代码？呵呵，先过了我的反 debug 再说吧！](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485338&idx=1&sn=5b4d6ed34a27ed5e81a3e5d8ccf8bee9&scene=19&token=464856977&lang=zh_CN#wechat_redirect)
+- [js 逆向分析，代码扣取](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247488874&idx=1&sn=709dc1b0005bb3e39b59a90d75cccfa7&chksm=fc8badfbcbfc24ede7a35f6b0d6b1becddb5ca57ab9efe2b394d962581e84804c05208c94f79&token=1628227326&lang=zh_CN#rd)
+- [Python 逆向抓取 APP 数据](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247488910&idx=1&sn=2b5cc2571220086b9ac3e2c95fd41cde&chksm=fc8bad1fcbfc24090c06a86da2725e506d17993bddf0dfa57330d3069a003a5f0d66fb602d11&token=1628227326&lang=zh_CN#rd)
 
 ## Python websocket 爬虫：
 - [哇靠，这些数据疯狂变化，该怎么爬取？](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485466&idx=1&sn=1e4db96f3ca1d3a263dd7e075cbd7600&scene=19&token=464856977&lang=zh_CN#wechat_redirect)
