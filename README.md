@@ -13,7 +13,7 @@ peace.
 
 ## python爬虫库的使用
 - [python爬虫系列教程03 | 那个叫做 Urllib 的库让我们的 python 假装是浏览器](https://mp.weixin.qq.com/s/rJ8bt4HjYU36MrsDejHLZA)
-- [python爬虫系列教程04 | 长江后浪推前浪，Reuqests库把urllib库拍在沙滩上](https://mp.weixin.qq.com/s/dYtF8ydJtqub0QkK1cGVjA)
+- [python爬虫系列教程04 | 长江后浪推前浪，Requests库把urllib库拍在沙滩上](https://mp.weixin.qq.com/s/dYtF8ydJtqub0QkK1cGVjA)
 - [python爬虫系列教程05 | 年轻人，不会正则表达式你睡得着觉？有点出息没有？](https://mp.weixin.qq.com/s/t4hXKK-pjA8rIVmJuiyQcw)
 - [python爬虫系列教程06 | 你的第一个爬虫，爬取当当网 Top 500 本五星好评书籍](https://mp.weixin.qq.com/s/ET9HP2n3905PxBy4ZLmZNw)
 - [python爬虫系列教程07 | 有了 BeautifulSoup ，妈妈再也不用担心我的正则表达式了](https://mp.weixin.qq.com/s/X8BT4sRp7_a4NHXa9ZSzCg)
