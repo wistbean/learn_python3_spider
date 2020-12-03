@@ -51,6 +51,8 @@ peace.
 - [你想逆向我的 js 代码？呵呵，先过了我的反 debug 再说吧！](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485338&idx=1&sn=5b4d6ed34a27ed5e81a3e5d8ccf8bee9&scene=19&token=464856977&lang=zh_CN#wechat_redirect)
 - [js 逆向分析，代码扣取](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247488874&idx=1&sn=709dc1b0005bb3e39b59a90d75cccfa7&chksm=fc8badfbcbfc24ede7a35f6b0d6b1becddb5ca57ab9efe2b394d962581e84804c05208c94f79&token=1628227326&lang=zh_CN#rd)
 - [Python 逆向抓取 APP 数据](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247488910&idx=1&sn=2b5cc2571220086b9ac3e2c95fd41cde&chksm=fc8bad1fcbfc24090c06a86da2725e506d17993bddf0dfa57330d3069a003a5f0d66fb602d11&token=1628227326&lang=zh_CN#rd)
+- [这次有点骚了，破解安卓某 APP 低层加密](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247489255&idx=1&sn=4abbd544ff0a63f4d24eb06a0f954df1&chksm=fc8bae76cbfc2760a71267cca2cade5f6847a7291fa4adc0abf37743c878bfbda65a496f2305&scene=178&cur_album_id=1321044729160859650#rd)
+- [当你通过 Python 请求网站得到一堆无厘头的 JS 时...](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247489477&idx=1&sn=891944cbceab3eb77966055604645457&chksm=fc8baf54cbfc2642a171cf8851c20f8a05f3eb2b844e8d0b1a6e7539590ce7c69ffae21f10f5&scene=178&cur_album_id=1321044729160859650#rd)
 
 ## Python websocket 爬虫：
 - [哇靠，这些数据疯狂变化，该怎么爬取？](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485466&idx=1&sn=1e4db96f3ca1d3a263dd7e075cbd7600&scene=19&token=464856977&lang=zh_CN#wechat_redirect)
