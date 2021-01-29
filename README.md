@@ -109,3 +109,9 @@ peace.
 
 ## 通往Python高手之路
 小帅b手把手带你：[通往Python高手之路](http://vip.fxxkpython.com/?page_id=18)
+
+## 使用 Google
+- [自建服务](http://www.ubuntu520.com/vultr-ssr-bbr-build-quick.html)
+- [Google搜索高级技巧](http://www.ubuntu520.com/google-search.html)
+
+
