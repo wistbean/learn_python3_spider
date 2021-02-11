@@ -4,8 +4,13 @@ import xlwt
 
 
 def request_douban(url):
+headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
+                      'Chrome/88.0.4324.146 Safari/537.36',
+    }
+
     try:
-        response = requests.get(url)
+        response = requests.get(url=url, headers=headers)
         if response.status_code == 200:
             return response.text
     except requests.RequestException:
@@ -34,8 +39,8 @@ def save_to_excel(soup):
         item_index = item.find(class_='').string
         item_score = item.find(class_='rating_num').string
         item_author = item.find('p').text
-        if (item.find(class_='inq') != None):
-            item_intr = item.find(class_='inq').string
+        if item.find(class_='inq') is not None:
+            item_intr = item.find(class_='inq').string        
 
         # print('爬取电影：' + item_index + ' | ' + item_name +' | ' + item_img +' | ' + item_score +' | ' + item_author +' | ' + item_intr )
         print('爬取电影：' + item_index + ' | ' + item_name + ' | ' + item_score + ' | ' + item_intr)
