@@ -38,9 +38,9 @@ def get_page_urls():
         baseurl = 'https://www.mzitu.com/page/{}'.format(i)
         html = request_page(baseurl)
         soup = BeautifulSoup(html, 'lxml')
-        list = soup.find(class_='postlist').find_all('li')
+        elements = soup.find(class_='postlist').find_all('li')
         urls = []
-        for item in list:
+        for item in elements:
             url = item.find('span').find('a').get('href')
             print('页面链接：%s' % url)
             urls.append(url)
