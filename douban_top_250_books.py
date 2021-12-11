@@ -40,7 +40,9 @@ def save_to_excel(soup):
         item_score = item.find(class_='rating_num').string
         item_author = item.find('p').text
         if item.find(class_='inq') is not None:
-            item_intr = item.find(class_='inq').string        
+            item_intr = item.find(class_='inq').string
+        else:
+            item_intr = 'NOT AVAILABLE'        
 
         # print('爬取电影：' + item_index + ' | ' + item_name +' | ' + item_img +' | ' + item_score +' | ' + item_author +' | ' + item_intr )
         print('爬取电影：' + item_index + ' | ' + item_name + ' | ' + item_score + ' | ' + item_intr)
