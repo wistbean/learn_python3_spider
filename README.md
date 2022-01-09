@@ -103,15 +103,18 @@ peace.
 ## python公众号
 
 微信搜索id：fxxkpython
-名称：学习python的正确姿势
+名称：小帅b和他的朋友们
 
-![扫一扫关注学习python的正确姿势](https://pic1.zhimg.com/80/v2-8733460ed14d159a62d511a641742ef0_hd.jpg)
+![扫一扫关注](https://user-images.githubusercontent.com/11805948/148672549-abcb3397-6085-4a1b-b2fc-4e6ea61055cc.jpeg)
+
+## Python 视频教程
+![扫一扫关注](https://user-images.githubusercontent.com/11805948/148672594-3beb1694-e4d8-4d50-bc30-db0495379ea3.JPG)
 
 ## 通往Python高手之路
 小帅b手把手带你：[通往Python高手之路](http://vip.fxxkpython.com/?page_id=18)
 
-## 使用 Google
-- [自建服务](http://www.ubuntu520.com/vultr-ssr-bbr-build-quick.html)
+##  Google 使用教程
+- [自建代理服务](http://www.ubuntu520.com/vultr-ssr-bbr-build-quick.html)
 - [Google搜索高级技巧](http://www.ubuntu520.com/google-search.html)
 
 
