@@ -5,15 +5,21 @@ peace.
 
 # python爬虫教程从0到1
 
+
+## 搭建代理
+
+- [自建代理服务](http://www.ubuntu520.com/vultr-ssr-bbr-build-quick.html)
+
 ## python爬虫前，抓包
 
-- [python爬虫系列教程00 | 什么是爬虫，怎么玩爬虫？](https://vip.fxxkpython.com/?p=2041)
-- [python爬虫系列教程01 | 教你在 Chrome 浏览器轻松抓包](https://vip.fxxkpython.com/?p=2011)
-- [python爬虫系列教程02 | 教你通过 Fiddler 进行手机抓包？](https://vip.fxxkpython.com/?p=1974)
+- [python爬虫系列教程00 | 什么是爬虫，怎么玩爬虫？](http://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&amp;mid=2247489892&amp;idx=1&amp;sn=40f3f6b70d467ca72b838939aa63d720&amp;chksm=ceb9e378f9ce6a6e089459fad40e2ef8bdce9f46a0a7b9e8332cdbe6d2bc09a47879dc99dd4c&amp;scene=27#wechat_redirect)
+- [python爬虫系列教程01 | 教你在 Chrome 浏览器轻松抓包](http://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&amp;mid=2247489893&amp;idx=1&amp;sn=32cc4fe30066a148485f40629aff598a&amp;chksm=ceb9e379f9ce6a6f609b95a729d01ff1745c101c14fe005fd2ed73e32dec08e1ed4d102bc9c9&amp;scene=27#wechat_redirect)
+- [python爬虫系列教程02 | 教你通过 Fiddler 进行手机抓包？](https://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&amp;mid=2247489894&amp;idx=1&amp;sn=d620c16bf3fcb4657c8c44152d936fc7&amp;chksm=ceb9e37af9ce6a6c3017158256b06afd5fb1945a4cd05f9db7e27c31606626ee73d0cc44a074&amp;scene=27#wechat_redirect)
+
 
 ## python爬虫库的使用
-- [python爬虫系列教程03 | 那个叫做 Urllib 的库让我们的 python 假装是浏览器](https://vip.fxxkpython.com/?p=1954)
-- [python爬虫系列教程04 | 长江后浪推前浪，Requests库把urllib库拍在沙滩上](https://vip.fxxkpython.com/?p=1945)
+- [python爬虫系列教程03 | 那个叫做 Urllib 的库让我们的 python 假装是浏览器](http://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&amp;mid=2247489895&amp;idx=1&amp;sn=9cddfab13d7d251ab3f7e81a882961ce&amp;chksm=ceb9e37bf9ce6a6d1014e00a7d4730249dc1e9104a8fd70ebc34211714a136bc003a962853b8&amp;scene=27#wechat_redirect)
+- [python爬虫系列教程04 | 长江后浪推前浪，Requests库把urllib库拍在沙滩上](http://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&amp;mid=2247489896&amp;idx=1&amp;sn=a4686a0cefb12a9bc5d41b062327f545&amp;chksm=ceb9e374f9ce6a622723e99c8e6c04dc25b268d474f259f85ec8da73d755f0de562bb584c63c&amp;scene=27#wechat_redirect)
 - [python爬虫系列教程05 | 年轻人，不会正则表达式你睡得着觉？有点出息没有？](https://vip.fxxkpython.com/?p=1928)
 - [python爬虫系列教程06 | 你的第一个爬虫，爬取当当网 Top 500 本五星好评书籍](https://vip.fxxkpython.com/?p=1903)
 - [python爬虫系列教程07 | 有了 BeautifulSoup ，妈妈再也不用担心我的正则表达式了](https://vip.fxxkpython.com/?p=1891)
@@ -40,7 +46,7 @@ peace.
 - [python爬虫系列教程28 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://vip.fxxkpython.com/?p=5038)
 - [python爬虫系列教程30 | scrapy后续，把「糗事百科」的段子爬下来然后存到数据库中](https://vip.fxxkpython.com/?p=5059)
 - [mitmproxy | 那个站在中间的男人，使用Python就能直接操控你的上网请求](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485104&idx=1&sn=5ee4a04e6ce2854e5507cd320517fd0d&chksm=fc8bbe21cbfc373738d926e0ca3250f44079449a85c1fe88f307805e28a3cc4ada07d9e322bb&token=2085568099&lang=zh_CN#rd)
-- [mitmproxy | 如何使用 mitmproxy 监控你的手机](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485117&idx=1&sn=3819b0d55ec071164b7cabe2477ddc13&scene=19#wechat_redirect)
+- [mitmproxy | 如何使用 mitmproxy 监控你的手机](https://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&mid=2247490016&idx=1&sn=4749ad1707fd33be167118d5f3aadeab&source=41#wechat_redirect)
 
 
 ## python爬虫进阶：python爬虫反爬
@@ -100,15 +106,21 @@ peace.
 - [ 如何自学 Python 高效一些](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484608&amp;idx=1&amp;sn=0ebde7cbfea6e42e9e8e316bbec35b2b&amp;chksm=fc8bbc51cbfc35475daa15a026c44727bc7954bd722b24870eab567ef937a8f175369c546962&amp;scene=27#wechat_redirect) 
 - [python教程资源](https://wistbean.github.io/categories/python/)
 - [吐血分享这两个爬虫用到的 Chrome 牛逼插件](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484859&amp;idx=1&amp;sn=b5f91ab1dc027d06e34dea1b37091b34&amp;chksm=fc8bbd2acbfc343ce3123fb3e3aec1fa1e34c96b15e998a34e01a75f4ca90b0089e1692f5a31&amp;scene=27#wechat_redirect) 
-## python公众号
+
+## 公众号获取 Python 相关帅书
 
 微信搜索id：fxxkpython
 名称：小帅b和他的朋友们
 
-![扫一扫关注](https://user-images.githubusercontent.com/11805948/148672549-abcb3397-6085-4a1b-b2fc-4e6ea61055cc.jpeg)
+<a href="https://fxxkpython.com"><img src="https://user-images.githubusercontent.com/11805948/154495745-bfd83fb9-b90d-4c2e-b0cf-dfa797015948.JPG" align="left" height="250" width="250"></a>
 
-## Python 视频教程
-![扫一扫关注](https://user-images.githubusercontent.com/11805948/148672594-3beb1694-e4d8-4d50-bc30-db0495379ea3.JPG)
+
+*进去发送「帅书」即可领取。*
+
+
+## Python 视频号
+
+<a href="https://fxxkpython.com"><img src="https://user-images.githubusercontent.com/11805948/148672594-3beb1694-e4d8-4d50-bc30-db0495379ea3.JPG" align="left" height="250" width="250"></a>
 
 ## 通往Python高手之路
 小帅b手把手带你：[通往Python高手之路](http://vip.fxxkpython.com/?page_id=18)
