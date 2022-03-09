@@ -10,6 +10,10 @@ peace.
 
 - [自建代理服务](http://www.ubuntu520.com/vultr-ssr-bbr-build-quick.html)
 
+## 爬虫负基础
+
+- [python爬虫系列教程-1 ｜ 不会代码也想爬数据？这就教你！](https://mp.weixin.qq.com/s?__biz=MzkyNTExNzY4NA==&mid=2247484935&idx=1&sn=ad9f68845455ca35c08c0e11f92aa4a6&chksm=c1ca3b9cf6bdb28a8647bc911079221b790780611e019e628613657ebfbc38e1e317f53ab00f&token=1453775207&lang=zh_CN#rd)
+
 ## python爬虫前，抓包
 
 - [python爬虫系列教程00 | 什么是爬虫，怎么玩爬虫？](http://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&amp;mid=2247489892&amp;idx=1&amp;sn=40f3f6b70d467ca72b838939aa63d720&amp;chksm=ceb9e378f9ce6a6e089459fad40e2ef8bdce9f46a0a7b9e8332cdbe6d2bc09a47879dc99dd4c&amp;scene=27#wechat_redirect)
