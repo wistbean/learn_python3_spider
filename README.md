@@ -6,9 +6,6 @@ peace.
 # python爬虫教程从0到1
 
 
-## 搭建代理
-
-- [自建代理服务](http://www.ubuntu520.com/vultr-ssr-bbr-build-quick.html)
 
 ## 爬虫负基础
 
@@ -131,7 +128,6 @@ peace.
 小帅b手把手带你：[通往Python高手之路](http://vip.fxxkpython.com/?page_id=18)
 
 ##  Google 使用教程
-- [自建代理服务](http://www.ubuntu520.com/vultr-ssr-bbr-build-quick.html)
 - [Google搜索高级技巧](http://www.ubuntu520.com/google-search.html)
 
 
