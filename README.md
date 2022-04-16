@@ -5,7 +5,8 @@ peace.
 
 # python爬虫教程从0到1
 
-
+##  Google 使用教程
+- [Google搜索高级技巧](http://www.ubuntu520.com/google-search.html)
 
 ## 爬虫负基础
 
@@ -127,7 +128,6 @@ peace.
 ## 通往Python高手之路
 小帅b手把手带你：[通往Python高手之路](http://vip.fxxkpython.com/?page_id=18)
 
-##  Google 使用教程
-- [Google搜索高级技巧](http://www.ubuntu520.com/google-search.html)
+
 
 
