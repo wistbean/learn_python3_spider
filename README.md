@@ -6,7 +6,7 @@ peace.
 # python爬虫教程从0到1
 
 ##  Google 使用教程
-- [Google搜索高级技巧](http://www.ubuntu520.com/google-search.html)
+- [Google搜索高级技巧](https://wistbean.github.io/google-search.html)
 
 ## 爬虫负基础
 
