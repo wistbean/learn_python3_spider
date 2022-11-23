@@ -112,7 +112,7 @@ peace.
 ## 公众号获取 Python 相关帅书
 
 微信搜索id：fxxkpython
-名称：小帅b和他的朋友们
+名称：学习 Python 的正确姿势
 
 <a href="https://fxxkpython.com"><img src="https://user-images.githubusercontent.com/11805948/156555426-44ad6d54-4b9b-47bb-b6c9-44b0f7a0609b.JPG" align="left" height="250" width="250"></a>
 
