@@ -5,12 +5,13 @@ peace.
 
 # python爬虫教程从0到1
 
-##  Google 使用教程
-- [Google搜索高级技巧](https://wistbean.github.io/google-search.html)
-
 ## 爬虫负基础
 
 - [python爬虫系列教程-1 ｜ 不会代码也想爬数据？这就教你！](https://mp.weixin.qq.com/s?__biz=MzkyNTExNzY4NA==&mid=2247484935&idx=1&sn=ad9f68845455ca35c08c0e11f92aa4a6&chksm=c1ca3b9cf6bdb28a8647bc911079221b790780611e019e628613657ebfbc38e1e317f53ab00f&token=1453775207&lang=zh_CN#rd)
+
+## Python 进阶爬虫书籍「打骨折」
+
+- [本书涵盖用深度学习来识别图片验证码、AST解析混淆代码、Android逆向 jadx、JEB、Frida使用、智能解析页面算法、爬虫的管理部署等等...](https://mp.weixin.qq.com/s/7eHp8bLssXHHRInv497Uqg)
 
 ## python爬虫前，抓包
 
@@ -98,10 +99,6 @@ peace.
 
 ## 爬虫技巧
 - [给你们说几点鲜有人知的爬虫技巧](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485129&idx=1&sn=56a9aecafa73162c639a873b5bbdf534&chksm=fc8bbe58cbfc374e5c033a37a82b94e8391855d85f1db26975579ddb3cf0882f1157e37f224c&token=2111372640&lang=zh_CN#rd)
-
-## Python 进阶爬虫书籍「打骨折」
-
-- [本书涵盖用深度学习来识别图片验证码、AST解析混淆代码、Android逆向 jadx、JEB、Frida使用、智能解析页面算法、爬虫的管理部署等等...](https://mp.weixin.qq.com/s/7eHp8bLssXHHRInv497Uqg)
 
 
 ## python爬虫段子
