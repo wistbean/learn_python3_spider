@@ -3,15 +3,19 @@
 
 peace.
 
+![](https://github.com/wistbean/learn_python3_spider/blob/master/Brigtdata.png?raw=true)
+
+无限并发会话。无宽带和目标限制。
+
+[Brigtdata (旧名Luminati)](https://get.brightdata.com/k47ir0cpnkh2)海外评比第一的代理 IP 提供商，代理抓取成功率 99%。
+现在推出机房代理用IP计费无限带宽的新方案，很适合需要高质量又稳定、费用合理的代理，购买套餐还赠充值加码的优惠价值100美金以上，[点击链接注册](https://get.brightdata.com/k47ir0cpnkh2)后根据邮件联系中文客服。
+
 # python爬虫教程从0到1
 
 ## 爬虫负基础
 
 - [python爬虫系列教程-1 ｜ 不会代码也想爬数据？这就教你！](https://mp.weixin.qq.com/s?__biz=MzkyNTExNzY4NA==&mid=2247484935&idx=1&sn=ad9f68845455ca35c08c0e11f92aa4a6&chksm=c1ca3b9cf6bdb28a8647bc911079221b790780611e019e628613657ebfbc38e1e317f53ab00f&token=1453775207&lang=zh_CN#rd)
 
-## Python 进阶爬虫书籍「打骨折」
-
-- [本书涵盖用深度学习来识别图片验证码、AST解析混淆代码、Android逆向 jadx、JEB、Frida使用、智能解析页面算法、爬虫的管理部署等等...](https://mp.weixin.qq.com/s/7eHp8bLssXHHRInv497Uqg)
 
 ## python爬虫前，抓包
 
@@ -36,6 +40,7 @@ peace.
 - [python爬虫系列教程15 | 你，快去试试用多进程的方式重新去爬取豆瓣上的电影](https://vip.fxxkpython.com/?p=4793)
 - [python爬虫系列教程16 | 听说你又被封 ip 了，你要学会伪装好自己，这次说说伪装你的头部](https://vip.fxxkpython.com/?p=4803)
 - [python爬虫系列教程17 | 就算你被封了也能继续爬，使用IP代理池伪装你的IP地址，让IP飘一会](https://vip.fxxkpython.com/?p=4818)
+- [海外评比第一的代理 IP 提供商，代理抓取成功率 99%。](https://get.brightdata.com/k47ir0cpnkh2)
 - [python爬虫系列教程18 | 遇到需要的登录的网站怎么办？用这3招轻松搞定！](https://vip.fxxkpython.com/?p=4833)
 - [python爬虫系列教程19 | 小帅b教你如何识别图片验证码](https://vip.fxxkpython.com/?p=4848)
 - [python爬虫系列教程20 | 对于b站这样的滑动验证码，不好意思，照样自动识别](https://vip.fxxkpython.com/?p=4878)
