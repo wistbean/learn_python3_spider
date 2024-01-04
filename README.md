@@ -9,7 +9,7 @@ peace.
 无限并发会话。无宽带和目标限制。
 
 [Brigtdata (旧名Luminati)](https://get.brightdata.com/k47ir0cpnkh2)海外评比第一的代理 IP 提供商，代理抓取成功率 99%。
-现在推出机房代理用IP计费无限带宽的新方案，很适合需要高质量又稳定、费用合理的代理，购买套餐还赠充值加码的优惠价值100美金以上，[点击链接注册](https://get.brightdata.com/k47ir0cpnkh2)后根据邮件联系中文客服。
+现在推出机房代理用IP计费无限带宽的新方案，很适合需要高质量又稳定、费用合理的代理，购买套餐有充值优惠100美金以上，[点击链接注册](https://get.brightdata.com/k47ir0cpnkh2)后根据邮件联系中文客服。
 
 # python爬虫教程从0到1
 
