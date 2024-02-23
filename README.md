@@ -3,13 +3,9 @@
 
 peace.
 
-# 代理IP和爬虫解锁工具
-![](https://github.com/wistbean/learn_python3_spider/blob/master/Brigtdata1.png?raw=true)
+# 如果你也想要会 Python
 
-无限并发会话。无宽带和目标限制。
-
-[Brigtdata (旧名Luminati)](https://get.brightdata.com/k47ir0cpnkh2)海外评比第一的代理 IP 提供商，代理抓取成功率 99%。
-现在推出机房代理用IP计费无限带宽的新方案，很适合需要高质量又稳定、费用合理的代理，购买套餐有充值优惠100美金以上，[点击链接注册](https://get.brightdata.com/k47ir0cpnkh2)后根据邮件联系中文客服。
+可以加入我的 [Python 会员网站](https://fxxkpython.com)!!
 
 # python爬虫教程从0到1
 
