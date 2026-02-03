@@ -125,13 +125,12 @@ peace.
 
 
 
-## Python 视频号
+## Python 技巧视频教程
+
+[那些被低估了的 Python 技巧](https://www.bilibili.com/video/BV1P5411S7B6/?vd_source=ed99ef1bdeb96f04c35ccaea6eba97a8)
 
 
-<a href="https://fxxkpython.com"><img src="https://user-images.githubusercontent.com/11805948/148672594-3beb1694-e4d8-4d50-bc30-db0495379ea3.JPG" align="left" height="250" width="250"></a>
 
-## 通往Python高手之路
-小帅b手把手带你：[通往Python高手之路](http://vip.fxxkpython.com/?page_id=18)
 
 
 
