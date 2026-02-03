@@ -6,9 +6,10 @@
 
 peace.
 
-# 如果你也想要会 Python
+# 我开发的小程序「要克制」
 
-可以加入我的 [Python 会员网站](https://fxxkpython.com)!!
+帮你戒色：
+![要克制小程序](https://github.com/wistbean/learn_python3_spider/blob/master/ykz.png)
 
 # python爬虫教程从0到1
 
