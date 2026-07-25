@@ -118,39 +118,11 @@ def _enc_dec_rsa_pkey_ctx(backend, key, data, padding_enum, padding):
     outlen = backend._ffi.new("size_t *", buf_size)
     buf = backend._ffi.new("unsigned char[]", buf_size)
     res = crypt(pkey_ctx, buf, outlen, data, len(data))
+    resbuf = backend._ffi.buffer(buf)[: outlen[0]]
+    backend._lib.ERR_clear_error()
     if res <= 0:
-        _handle_rsa_enc_dec_error(backend, key)
-
-    return backend._ffi.buffer(buf)[:outlen[0]]
-
-
-def _handle_rsa_enc_dec_error(backend, key):
-    errors = backend._consume_errors()
-    backend.openssl_assert(errors)
-    backend.openssl_assert(errors[0].lib == backend._lib.ERR_LIB_RSA)
-    if isinstance(key, _RSAPublicKey):
-        backend.openssl_assert(
-            errors[0].reason == backend._lib.RSA_R_DATA_TOO_LARGE_FOR_KEY_SIZE
-        )
-        raise ValueError(
-            "Data too long for key size. Encrypt less data or use a "
-            "larger key size."
-        )
-    else:
-        decoding_errors = [
-            backend._lib.RSA_R_BLOCK_TYPE_IS_NOT_01,
-            backend._lib.RSA_R_BLOCK_TYPE_IS_NOT_02,
-            backend._lib.RSA_R_OAEP_DECODING_ERROR,
-            # Though this error looks similar to the
-            # RSA_R_DATA_TOO_LARGE_FOR_KEY_SIZE, this occurs on decrypts,
-            # rather than on encrypts
-            backend._lib.RSA_R_DATA_TOO_LARGE_FOR_MODULUS,
-        ]
-        if backend._lib.Cryptography_HAS_RSA_R_PKCS_DECODING_ERROR:
-            decoding_errors.append(backend._lib.RSA_R_PKCS_DECODING_ERROR)
-
-        backend.openssl_assert(errors[0].reason in decoding_errors)
-        raise ValueError("Decryption failed.")
+        raise ValueError("Encryption/decryption failed.")
+    return resbuf
 
 
 def _rsa_sig_determine_padding(backend, key, padding, algorithm):
