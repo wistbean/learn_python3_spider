@@ -3,11 +3,9 @@
 接下来就是，学习python的正确姿势！
 peace.
 
-# 我开发的小程序「健身动作库与计划」
+# 我的小说「被调用的人」火热更新中
 
-如果你喜欢健身的话：
-
-![健身小程序](https://github.com/wistbean/learn_python3_spider/blob/master/js.png)
+[9.9分神作：程序员收到一封神秘邮件后改变了自己的人生](https://mp.weixin.qq.com/s/GGunXqQc2o0Dj0X5vYpSzA)
 
 # python爬虫教程从0到1
 
